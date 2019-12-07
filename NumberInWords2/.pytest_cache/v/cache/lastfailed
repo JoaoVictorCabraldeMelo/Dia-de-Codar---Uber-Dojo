@@ -1,0 +1,3 @@
+{
+  "tests/test_numberinwords.py::test_should_return_number_ten_to_twenty": true
+}

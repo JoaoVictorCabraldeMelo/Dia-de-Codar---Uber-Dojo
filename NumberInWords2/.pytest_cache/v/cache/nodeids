@@ -1,0 +1,5 @@
+[
+  "tests/test_numberinwords.py::test_should_return_number_in_extension",
+  "tests/test_numberinwords.py::test_should_return_number_unit",
+  "tests/test_numberinwords.py::test_should_return_number_ten_to_twenty"
+]
